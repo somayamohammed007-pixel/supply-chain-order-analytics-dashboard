@@ -72,9 +72,9 @@ The goal is to transform raw transactional data into actionable insights that su
 
 * Excel Dashboard File (.xlsx)
 * Dashboard Screenshots
-![overview-dashboard](Dashboard%20Screenshots/overview-dashboard.png)
-![details-page](Dashboard%20Screenshots/details-page.png)
-![analytics-page](Dashboard%20Screenshots/analytics-page.png)
+![overview-dashboard](Dashboard%20Screenshots/overview-dashboard.png.png)
+![details-page](Dashboard%20Screenshots/details-page.png.png)
+![analytics-page](Dashboard%20Screenshots/analytics-page.png.png)
 * Data Model Documentation
 ![Data Model](Data%20Model/Data%20Model.png)
 
